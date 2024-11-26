@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #325C4A;
+  }
+  
+  .ght{
+    background-color: #6EF7C8;
+    border: 10px solid black;
+    padding: 20px;
+    margin: 20px auto; /* Центрирование блоков */
+    width: 80%;
+    box-sizing: border-box;
+    border: 5px solid red;
+  }
+  
+  p{
+    margin: 0;
+  }
